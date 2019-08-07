@@ -4,8 +4,11 @@ A simple node app to test how well my proxy traffic is be routed
 
 ## Startup
 
+```
 // Run it on localhost at port 3000
-`npm run start`
+
+npm run start
+```
 
 
 ## Exposure
