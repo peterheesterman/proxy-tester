@@ -1,0 +1,28 @@
+{
+  "name": "proxy-tester",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A simple node app to test how well my proxy traffic is be routed",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterheesterman/proxy-tester.git"
+  },
+  "keywords": [
+    "Node",
+    "Proxy",
+    "Test"
+  ],
+  "author": "Peter Heesterman <heesterman.peter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterheesterman/proxy-tester/issues"
+  },
+  "homepage": "https://github.com/peterheesterman/proxy-tester#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
